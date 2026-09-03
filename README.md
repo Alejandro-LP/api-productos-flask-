@@ -246,6 +246,6 @@ Antes de empezar: abre Postman Desktop, y confirma que el servidor Flask (Paso 5
 
 ## Autor
 
-- Nombre: Alejandro
-- Curso: Backend
+- Nombre: Alejandro López
+- Curso: NUEVAS TECNOLOGÍAS DE DESARROLLO
 - Repositorio: [github.com/Alejandro-LP/api-productos-flask](https://github.com/Alejandro-LP/api-productos-flask)
